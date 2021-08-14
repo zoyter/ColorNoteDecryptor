@@ -24,6 +24,6 @@ pyinstaller --onefile --noconsole main.py
 
 ## Скачать
 
-Вы можете скачать уже скомпилированную версию для Windows 10 по этой ссылке [Скачать](https://cloud.mail.ru/public/7aDW/nYTZQuLiD)
+Вы можете скачать уже скомпилированную версию для Windows 10 по этой ссылке **[СКАЧАТЬ](https://cloud.mail.ru/public/7aDW/nYTZQuLiD)**
 
 
