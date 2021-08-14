@@ -8,14 +8,13 @@
 
 После запуска приложения необходимо просто перетащить файл ColorNote в окно программы.
 
-## Особенности реализации
+## Использованные ресурсы
 
-Для дешифровки записей ColorNote использовались наработки вот этого проекта [decode-ColorNote | https://github.com/fcoiffie/decode-ColorNote] 
+- Проект [decode-ColorNote](https://github.com/fcoiffie/decode-ColorNote) для дешифровки записей ColorNote
+- Изображение [post-it.png]( https://www.flaticon.com/free-icon/post-it_889648?term=note&page=1&position=4&page=1&position=4&related_id=889648&origin=search) в качестве иконки приложения
 
-Иконка для проекта "post-it.png" взята с этой страницы https://www.flaticon.com/free-icon/post-it_889648?term=note&page=1&position=4&page=1&position=4&related_id=889648&origin=search
 
-
-**Сборка приложения**
+## Сборка приложения
 
 Для сборки автономного приложения требуется установить модуль **pyinstaller** и выполнить команду:  
 
